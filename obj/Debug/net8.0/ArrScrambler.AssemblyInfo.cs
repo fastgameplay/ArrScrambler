@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrScrambler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4801f845edf485c768f8a84ca5372ebd19e2635")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db1f1916f8a1c9c1ed859d2fb404a798ba4f22e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrScrambler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrScrambler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
