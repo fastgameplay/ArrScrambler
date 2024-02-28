@@ -16,3 +16,4 @@ C:\Users\User\Desktop\ArrScrambler\bin\Debug\net8.0\nunit.framework.dll
 C:\Users\User\Desktop\ArrScrambler\bin\Debug\net8.0\nunit.framework.legacy.dll
 C:\Users\User\Desktop\ArrScrambler\obj\Debug\net8.0\ArrScrambler.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\ArrScrambler\obj\Debug\net8.0\ArrScrambler.csproj.CopyComplete
+C:\Users\User\Desktop\ArrScrambler\obj\Debug\net8.0\ArrScrambler.sourcelink.json
